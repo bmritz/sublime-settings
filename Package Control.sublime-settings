@@ -7,6 +7,7 @@
 	[
 		"All Autocomplete",
 		"Anaconda",
-		"Package Control"
+		"Package Control",
+		"GitGutter"
 	]
 }
