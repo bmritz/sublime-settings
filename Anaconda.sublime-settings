@@ -1,0 +1,27 @@
+{
+	"display_signatures": false,
+    "disable_anaconda_completion": true,
+    "auto_formatting": true,
+    "autoformat_ignore":
+    [
+        "E309",
+    ],
+    "anaconda_gutter_theme": "simple",
+    "anaconda_linter_mark_style": "squiggly_underline",
+    "anaconda_linter_underlines": true,
+    "anaconda_linter_phantoms": false,
+    "pep8": true,
+    "pep8_ignore":
+    [
+        "E309",
+        "W191"
+    ],
+    "pep8_max_line_length": 120,
+    "pep257": true,
+    "pep257_ignore":
+    [
+        "D203",
+        "D209",
+        "D213"
+    ],
+}
